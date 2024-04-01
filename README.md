@@ -83,6 +83,7 @@ Microsoft Power BI was used to design and create an interactive dashboard and vi
 
 In the Dahsboard we will be able to see the following:
 
+   * Location of the wells identifying if it is a crude oil well or a gas well.
    * Production by company.
    * Production by department 
    * Gas production vs. crude oil production.
