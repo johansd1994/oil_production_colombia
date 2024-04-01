@@ -80,6 +80,13 @@ A task was configured and executed in Mage to load the transformed data into Goo
 Microsoft Power BI was used to design and create an interactive dashboard and visualizations that allow to analyze and understand oil and gas production data in Colombia
 
 # Dashboard and results 
+
+In the Dahsboard we will be able to see the following:
+
+   * Production by company.
+   * Production by department 
+   * Gas production vs. crude oil production.
+
 ![image](https://github.com/johansd1994/oil_production_colombia/assets/129906482/3817f4a3-53e0-4271-87b4-b8eb06855d60)
 ![image](https://github.com/johansd1994/oil_production_colombia/assets/129906482/f90451c6-2406-435c-8771-40526f8b9d4d)
 ![dashboard - Power BI 2](https://github.com/johansd1994/oil_production_colombia/assets/129906482/42b907a7-5690-47c3-832f-9021d3daf6f5) ![dashboard - Power BI 1](https://github.com/johansd1994/oil_production_colombia/assets/129906482/9da08998-72c9-425c-aa48-79fef336ef54)
