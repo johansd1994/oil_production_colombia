@@ -92,5 +92,6 @@ In the Dahsboard we will be able to see the following:
 ![image](https://github.com/johansd1994/oil_production_colombia/assets/129906482/f90451c6-2406-435c-8771-40526f8b9d4d)
 ![dashboard - Power BI 2](https://github.com/johansd1994/oil_production_colombia/assets/129906482/42b907a7-5690-47c3-832f-9021d3daf6f5) ![dashboard - Power BI 1](https://github.com/johansd1994/oil_production_colombia/assets/129906482/9da08998-72c9-425c-aa48-79fef336ef54)
 
+# Acknowledgments:
 
-
+Totally grateful to DataTalksClub(https://www.linkedin.com/company/datatalks-club/) for the course, because they helped me to know different technologies and ways to perform data pipeline that before I thought it could be very difficult, almost impossible for me, but thanks to this course I could learn a lot and strengthen those knowledge looking for timely solutions. 
