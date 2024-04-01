@@ -44,3 +44,6 @@ Google BigQuery is a fully managed, highly scalable data warehouse that allows f
 
 Power BI is a data visualization and reporting tool that allows creating interactive dashboards and compelling visualizations from data stored in different sources. Power BI was used to design and create dashboards and data analysis that provide insights on oil and gas production in Colombia.
 
+# Project architecture
+
+![Proyect P1](https://github.com/johansd1994/oil_production_colombia/assets/129906482/4ec9379b-bdbd-4e54-9d8f-bea92f56f9ce)
