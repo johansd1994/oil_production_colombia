@@ -82,8 +82,7 @@ Microsoft Power BI was used to design and create an interactive dashboard and vi
 # Dashboard and results 
 ![image](https://github.com/johansd1994/oil_production_colombia/assets/129906482/3817f4a3-53e0-4271-87b4-b8eb06855d60)
 ![image](https://github.com/johansd1994/oil_production_colombia/assets/129906482/f90451c6-2406-435c-8771-40526f8b9d4d)
-![dashboard - Power BI 2](https://github.com/johansd1994/oil_production_colombia/assets/129906482/42b907a7-5690-47c3-832f-9021d3daf6f5)
-![dashboard - Power BI 1](https://github.com/johansd1994/oil_production_colombia/assets/129906482/9da08998-72c9-425c-aa48-79fef336ef54)
+![dashboard - Power BI 2](https://github.com/johansd1994/oil_production_colombia/assets/129906482/42b907a7-5690-47c3-832f-9021d3daf6f5) ![dashboard - Power BI 1](https://github.com/johansd1994/oil_production_colombia/assets/129906482/9da08998-72c9-425c-aa48-79fef336ef54)
 
 
 
