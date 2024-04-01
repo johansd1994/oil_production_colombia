@@ -47,3 +47,36 @@ Power BI is a data visualization and reporting tool that allows creating interac
 # Project architecture
 
 ![Proyect P1](https://github.com/johansd1994/oil_production_colombia/assets/129906482/4ec9379b-bdbd-4e54-9d8f-bea92f56f9ce)
+
+# Steps 
+
+**Downloading Data from the Government's Public Data Portal:**
+The government's public data portal was accessed to download datasets related to oil and gas production in Colombia during the period of interest (2013-2023).
+
+**Note: public data is not 100% reliable as it may not be up to date.**
+
+**Google Cloud Platform (GCP) Account Creation:**
+A Google Cloud Platform account was created to use Google's cloud services, including Google Cloud Storage and Google BigQuery.
+
+**Service Account Creation and Permission Settings:**
+A service account was created in GCP and a key was generated in JSON format (client-secrets.json). Appropriate permissions were then configured for this service account in the GCP Identity and Access Management (IAM) console, assigning Storage Admin, Storage Object Admin and BigQuery Admin roles to ensure proper access and authorization to the required services.
+
+**Terraform Installation and Creation of the Configuration File (main.tf):**
+Terraform was installed and a main configuration file (main.tf) was created to define the required infrastructure on Google Cloud Platform, including the Google Cloud Storage bucket to store the data.
+
+**Data Ingestion with Python and Pandas**
+A Python script was developed using the Pandas library to perform data ingestion from the downloaded files and send them to the Google Cloud Storage bucket. The Google Cloud Storage library was used for the data transfer.
+
+**Installation and Use of Docker:**
+Docker was installed and Docker was used to send a copy of the data to a PostgreSQL database and to run the Mage container for data flow orchestration (ETL).
+
+**ETL process with Mage:**
+Using Mage, a workflow was designed and programmed to perform the Extract, Transform and Load (ETL) process of the data. During this process, the data was transformed to optimize it for further analysis.
+
+**Data loading in Google BigQuery:**
+A task was configured and executed in Mage to load the transformed data into Google BigQuery.
+
+**Dashboard Creation with Microsoft Power BI:**
+Microsoft Power BI was used to design and create an interactive dashboard and visualizations that allow to analyze and understand oil and gas production data in Colombia
+
+# Dashboard and results 
