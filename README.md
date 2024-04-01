@@ -2,7 +2,7 @@
 
 ![image](https://github.com/johansd1994/oil_production_colombia/assets/129906482/a2990455-1705-4591-8e2c-5aa51831421b)
 
-# description of the problem
+# Description of the problem
 
 Colombia is a country with a significant oil industry that plays a crucial role in its economy. Oil and natural gas production is an important source of income and employment, and understanding the trends and factors that influence this production is critical for decision making at both the government and energy industry levels.
 
